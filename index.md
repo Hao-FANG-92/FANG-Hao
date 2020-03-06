@@ -7,8 +7,10 @@ My research interest mainly lies in 3D Computer Vision and geometric modeling,  
 # Research Projects
 
 **Planar Shape Detection at Structural Scales**
+
 Fang H., Lafarge F. and Desbrun M. 
 Proc. of the IEEE conference on Computer Vision and Pattern Recognition (CVPR), 2018
+
 [[paper](https://hal.inria.fr/hal-01741650/document)][[bibtex](https://www-sop.inria.fr/members/Florent.Lafarge/articles/2018_cvpr_b.html)]
 
 
