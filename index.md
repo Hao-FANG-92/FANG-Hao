@@ -15,7 +15,7 @@ Proc. of the IEEE conference on Computer Vision and Pattern Recognition (CVPR), 
 **Pyramid Scene Parsing Network in 3D: improving semantic segmentation of point clouds with multi-scale contextual information**
 Fang H., Lafarge F. 
 ISPRS Journal of Photogrammetry and Remote Sensing (JPRS), Vol. 154, 2019
-[[paper](https://hal.inria.fr/hal-02159279/document)][[bibtex](https://www-sop.inria.fr/members/Florent.Lafarge/articles/2019_jprs.html)]
+[[paper](https://hal.inria.fr/hal-02159279/document)][[bibtex](https://www-sop.inria.fr/members/Florent.Lafarge/articles/2019_jprs.html)][[project]](https://github.com/Hao-FANG-92/3D_PSPNet)
 
 
 **Connect-and-Slice: an hybrid approach for reconstructing 3D objects**
